@@ -1,0 +1,4 @@
+INFO: Program Started ERROR:
+ File not found WARNING:
+ Low Memory ERROR: Invalid Input 
+ INFO: Process Completed
